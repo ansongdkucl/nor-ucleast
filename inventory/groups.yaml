@@ -1,0 +1,7 @@
+switches:
+  data:
+    voip: 00
+
+routers:
+  data:
+    voip: 00
